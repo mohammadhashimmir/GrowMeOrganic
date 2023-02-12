@@ -1,0 +1,18 @@
+.App {
+    width: 30%; 
+    margin: 25vh auto; 
+    border-radius: 10px;
+    border: 2px solid #1976D2;  
+    text-align: center; 
+  }
+  div.formCard{
+    border-radius: 10px;
+  }
+  div.input{
+    background-color: blanchedalmond;
+  }
+  @media only screen and (max-width:968px){
+    .App{
+      width: 60%;
+    }
+  }
